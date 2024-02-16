@@ -1,8 +1,4 @@
-# AssistantGPT-Bluechip-Asia
-
-Welcome to AssistantGPT-Bluechip-Asia, a conversational AI application designed to chat with users about data stored in CSV, PDF, and TXT files. The application utilizes Langchain for natural language processing, OpenAI for intelligent responses, and Streamlit for a user-friendly interface.
-
-## Features:
+# Document AssistantGPT
 
 - **File Upload:** Users can upload CSV, PDF, and TXT files for analysis.
 
@@ -16,7 +12,6 @@ Welcome to AssistantGPT-Bluechip-Asia, a conversational AI application designed 
 
 - **Query History:** Users can review past interactions and queries.
 
-
 ## Tech Stack:
 
 - **Langchain:** For natural language processing and data extraction.
@@ -25,10 +20,6 @@ Welcome to AssistantGPT-Bluechip-Asia, a conversational AI application designed 
 
 - **Streamlit:** For building a user-friendly and responsive web interface.
 
-## How to Run:
+For a quick overview [Video](https://drive.google.com/file/d/1sw4WByBDL9vMBcD295FjhHaUsP87IldV/view?usp=sharing). You can access the live version of this web application [here](https://BankAssistantchatbot.azurewebsites.net). 
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/ThaminduBluechiptechAsia/AssistantGPT-Bluechip-Asia.git
-   cd AssistantGPT-Bluechip-Asia
+![Image Alt Text](https://github.com/ThaminduSulakshana/Bank-Assistant-GPT/blob/main/Screenshot%20(423).png)
