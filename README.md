@@ -20,6 +20,6 @@
 
 - **Streamlit:** For building a user-friendly and responsive web interface.
 
-For a quick overview [Video](https://drive.google.com/file/d/1sw4WByBDL9vMBcD295FjhHaUsP87IldV/view?usp=sharing). You can access the live version of this web application [here](https://BankAssistantchatbot.azurewebsites.net). 
+For a quick overview [Video](https://drive.google.com/file/d/1LtJo1z5w26aAnolNQtlbsan5-mQG981C/view?usp=sharing). You can access the live version of this web application [here](https://doc-assistantgpt.onrender.com/). 
 
-![Image Alt Text](https://github.com/ThaminduSulakshana/Bank-Assistant-GPT/blob/main/Screenshot%20(423).png)
+![Image Alt Text](https://github.com/ThaminduSulakshana/DOC.AssistantGPT/blob/main/Screenshot%20(445).png)
